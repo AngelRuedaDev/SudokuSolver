@@ -2,7 +2,7 @@
 public class Sudoku {
 	public static final int EMPTY = 0;
 	public static final int SIZE = 9;
-	private static int [][] board;
+	public static int [][] board;
 	
 	//CONSTRUCTOR
 	public Sudoku(int[][] board) {
